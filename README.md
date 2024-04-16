@@ -7,7 +7,7 @@ Hello, I'm a soon-to-graduate Electrical Engineering student from NTNU, Taiwan, 
 #### Soft Skills: Presentation, Communication, 
 
 ## Education 
-國立臺灣師範大學 電機工程學系 | National Taiwan Normal University, Department of Electrical Engineering *(2020-2024)*  
+國立臺灣師範大學 電機工程學系 | Electrical Engineering, National Taiwan Normal University *(2020-2024)*  
 高雄女中 | Kaohsiung Girl’s Senior High School *(2017-2020)*
 
 ### Major Courses
@@ -24,4 +24,7 @@ Hello, I'm a soon-to-graduate Electrical Engineering student from NTNU, Taiwan, 
 [Link](https://github.com/Mia1011/Biostatistics)
 ### Table Tennis Motion Detection & Accuracy Prediction *(2022-2023)*
 
+## Achievements
+### LeetCode - SQL 50
+[Link](https://leetcode.com/MiaSuen/)
 ### 
