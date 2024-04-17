@@ -10,19 +10,11 @@ Hello, I'm a soon-to-graduate Electrical Engineering student from NTNU, Taiwan, 
 國立臺灣師範大學 電機工程學系 | Electrical Engineering, National Taiwan Normal University *(2020-2024)*  
 高雄女中 | Kaohsiung Girl’s Senior High School *(2017-2020)*
 
-### Major Courses
-試算表進階應用 | Advanced Applications of Excel and Programming ***(A+)***   
-資料結構 | Data Structure ***(A+)***  
-大數據程式設計 | Big Data Programming ***(A+)***  
-資料科學在教育方面的應用 | Data Science in Education Research ***(A+)***  
-生物統計分析 | Biostatistic ***(1.0 - Excellent)***  
-機器學習 | Machine Learning ***(A+)***  
-工程機率與統計 | Probability and Statistics for Engineering *(in progress)*   
-
 ## Projects
 ### Tech Company Salary-based Analysis Project *(2023-2024)*
-[Link](https://github.com/Mia1011/Biostatistics)
+[Link](https://github.com/Mia1011/Biostatistics)  
 
+This project aims to explore the reasons influencing salaries within the tech industry. By analyzing a dataset from an anonymous tech company, we delve into the correlations and patterns between salary levels and various factors.  
 ![Salary-based visulization](/img/visulization.JPG)
 
 ### Table Tennis Motion Detection & Accuracy Prediction *(2022-2023)*
