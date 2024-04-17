@@ -23,9 +23,9 @@ Hello, I'm a soon-to-graduate Electrical Engineering student from NTNU, Taiwan, 
 ### Tech Company Salary-based Analysis Project *(2023-2024)*
 [Link](https://github.com/Mia1011/Biostatistics)
 
-![Salary-Gender](/img/salary-gender.jpeg)
-![Salary-Education](/img/salary-education.jpeg)
-![Salary-WorkExperience](/img/salary-experience.jpeg)
+![Salary-Gender](/img/salary-gender.png)
+![Salary-Education](/img/salary-education.png)
+![Salary-WorkExperience](/img/salary-experience.png)
 
 ### Table Tennis Motion Detection & Accuracy Prediction *(2022-2023)*
 
