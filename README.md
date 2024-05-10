@@ -4,7 +4,6 @@ Hello, I'm a soon-to-graduate Electrical Engineering student from NTNU, Taiwan, 
 
 #### Technical Skills: Excel, Python, R, C, MySQL, Microsoft  
 #### Language Skills: Mandarin, English, German
-#### Soft Skills: Presentation, Communication, 
 
 ## Education 
 國立臺灣師範大學 電機工程學系 | Electrical Engineering, National Taiwan Normal University *(2020-2024)*  
@@ -12,12 +11,26 @@ Hello, I'm a soon-to-graduate Electrical Engineering student from NTNU, Taiwan, 
 
 ## Projects
 ### Tech Company Salary-based Analysis Project *(2023-2024)*
-[Link](https://github.com/Mia1011/Biostatistics)  
+Click [here](https://github.com/Mia1011/project-tech_salary) to see more discription..   
 
-This project aims to explore the reasons influencing salaries within the tech industry. By analyzing a dataset from an anonymous tech company, we delve into the correlations and patterns between salary levels and various factors.  
+I've always dream to work in a global tech company. To fulfill my curiosity, I came up with an idea to explore the reasons influencing salaries within the tech industry. By analyzing a dataset from an anonymous tech company, I delve into the correlations between salary levels and various factors using R statistics and visulisation.  
 ![Salary-based visulization](/img/visulization.JPG)
 
 ### Table Tennis Motion Detection & Accuracy Prediction *(2022-2023)*
+Click [here](https://github.com/Mia1011/project-table_tennis) to see more discription.. 
+
+This is a team project aiming to distinguish between the beginning and advanced table tennis players. By studying papers about Resnet and revising codes from our laboratory, we obtained a classification accuracy up to 92.377%. During this project, I was mainly in charge of data cleaning and organizing. 
+c
+
+### 
+
+## Experiences
+### Asian Student Exchange Program  *(2018)* & World Youth Meeting *(2019)*
+These are the two international presentation competition I participated during high school, which I honed my skills in communication, cooperation, and presentation. We built a team with Japanese students, focusing on topics about Youtube and Surrogate Mother, and earned the highest honor. 
+![presentation](/img/presentation.png)
+
+Click [here]((https://github.com/Mia1011/experience-presentation) to see more discription. 
+
 
 ## Achievements
 ### LeetCode - SQL 50
