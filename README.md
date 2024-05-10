@@ -1,5 +1,5 @@
 # Inspiring Data Analyst  
-#### Welcome to my portfolio website where you can explore some of my school projects and personal experiences. I hope this website helps you gain a better understanding of who I am. 
+Welcome to my portfolio website where you can explore some of my school projects and personal experiences. I hope this website helps you gain a better understanding of who I am. 
 
 #### Technical Skills: Excel, Python, R, C, MySQL, Microsoft  
 #### Language Skills: Mandarin, English, German
