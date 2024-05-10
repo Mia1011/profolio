@@ -29,7 +29,7 @@ c
 These are the two international presentation competition I participated during high school, which I honed my skills in communication, cooperation, and presentation. We built a team with Japanese students, focusing on topics about Youtube and Surrogate Mother, and earned the highest honor. 
 ![presentation](/img/presentation.png)
 
-Click [here]((https://github.com/Mia1011/experience-presentation) to see more discription. 
+Click [here](https://github.com/Mia1011/experience-presentation) to see more discription. 
 
 
 ## Achievements
