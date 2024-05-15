@@ -16,19 +16,18 @@ Click [here](https://github.com/Mia1011/project-tech_salary) to see more discrip
 ![Salary-based visulization](/img/visulization.JPG)
 
 ### Table Tennis Motion Detection & Accuracy Prediction *(2022-2023)*
-Click [here](https://github.com/Mia1011/project-table_tennis) to see more discription.. 
+This is a team project aiming to distinguish between the beginning and advanced table tennis players. By studying papers about Resnet and revising codes from our laboratory, we obtained a classification accuracy up to 92.377%. During this project, I was mainly in charge of data cleaning and organizing.  
 
-This is a team project aiming to distinguish between the beginning and advanced table tennis players. By studying papers about Resnet and revising codes from our laboratory, we obtained a classification accuracy up to 92.377%. During this project, I was mainly in charge of data cleaning and organizing. 
-c
+Click [here](https://github.com/Mia1011/project-table_tennis) to see more discription.  
 
 ### 
 
 ## Experiences
 ### Asian Student Exchange Program  *(2018)* & World Youth Meeting *(2019)*
-These are the two international presentation competition I participated during high school, which I honed my skills in communication, cooperation, and presentation. We built a team with Japanese students, focusing on topics about Youtube and Surrogate Mother, and eventurally earned the highest honor. 
-![presentation](/img/presentation.jpg)
+These are the two international presentation competition I participated during high school, which I honed my skills in communication, cooperation, and presentation. We built a team with Japanese students, focusing on topics about Youtube and Surrogate Mother, and eventurally earned the highest honor.  
 
 Click [here](https://github.com/Mia1011/experience-presentation) to see more discription. 
+![presentation](/img/presentation.jpg)
 
 
 ## Achievements
