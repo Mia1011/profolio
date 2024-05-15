@@ -10,9 +10,8 @@ Kaohsiung Girl’s Senior High School *(2017-2020)*
 
 ## Projects
 ### Tech Company Salary-based Analysis Project *(2023-2024)*
-Click [here](https://github.com/Mia1011/project-tech_salary) to see more discription..   
-
 I've always dream to work in a global tech company. To fulfill my curiosity, I came up with an idea to explore the reasons influencing salaries within the tech industry. By analyzing a dataset from an anonymous tech company, I delve into the correlations between salary levels and various factors using R statistics and visulisation.  
+Click [here](https://github.com/Mia1011/project-tech_salary) to see more discription.   
 ![Salary-based visulization](/img/visulization.JPG)
 
 ### Table Tennis Motion Detection & Accuracy Prediction *(2022-2023)*
